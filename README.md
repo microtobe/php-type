@@ -3,11 +3,11 @@ php-type
 
 <table>
    <tr>
-    <td>Expression|</td>
-    <td>gettype($x)|</td>
-    <td>empty($x)|</td>
-    <td>boolean:if($x)|</td>
-    <td>is_null($x)|</td>
+    <td>Expression</td>
+    <td>gettype($x)</td>
+    <td>empty($x)</td>
+    <td>boolean:if($x)</td>
+    <td>is_null($x)</td>
     <td>isset($x)</td>
    </tr>
    <tr>
